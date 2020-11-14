@@ -1,0 +1,41 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.banner-area{
+    background: #FF416C;
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+	background: linear-gradient(to right, #FF4B2B, #FF416C);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: 0 0;
+}
+a{
+    font-size: large;
+}
+.menu-area{
+    position: static;
+}
+.mega-area {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right:0;
+    padding: 20px;
+    background-color:#212529;
+    color:whitesmoke;
+}
+.dropdown-item{
+    color:whitesmoke;
+    padding: 5px;
+}
+.super-container{
+    height:100vh;
+    text-align: center;
+    background: #FF416C;
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+	background: linear-gradient(to right, #FF4B2B, #FF416C);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: 0 0;
+}
