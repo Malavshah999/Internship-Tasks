@@ -32,7 +32,8 @@ a{
 .super-container{
     height:100vh;
     text-align: center;
-    background: #FF416C;
+    background: white;
+	color: red;
 	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
 	background: linear-gradient(to right, #FF4B2B, #FF416C);
 	background-repeat: no-repeat;
